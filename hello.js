@@ -1,0 +1,9 @@
+exports.log={
+	hey:function(msg){
+		console.log(msg);
+	},
+	file:function(msg)
+	{
+       console.log(msg);
+	}
+};
